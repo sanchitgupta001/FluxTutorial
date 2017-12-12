@@ -1,2 +1,2 @@
 # ReduxTutorial
-This is the basic tutorial for learning Flux.
+This is the basic tutorial for learning Redux.
